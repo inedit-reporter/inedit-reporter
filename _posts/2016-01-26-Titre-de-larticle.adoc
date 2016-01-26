@@ -34,7 +34,7 @@ Une définition sert à définir quelque chose.footnote:[Voir juste en dessous]
 Quelque chose::
 Quelque chose se rapport à un objet réel ou imaginaire.
 
-video::nTDfcYw2KCY[youtube]
+video::nTDfcYw2KCY[youtube, width="640", height="360"]
 
 ,===
 *Colonne 1*, *Colonne 2*, *Colonne 3*
