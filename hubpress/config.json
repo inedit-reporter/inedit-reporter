@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "vankasteelj",
-    "repositoryName": "inedit-reporter.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"inedit-reporter","repositoryName":"inedit-reporter.github.io","branch":"master"},"site":{"title":"Inédit Reporter","logo":"https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png","url":"https://inedit-reporter.github.io"},"socialnetwork":{"email":"vankasteelj@gmail.com","twitter":"twitter.com/vankasteelj"},"theme":{"name":"Roon","url":"//inedit-reporter.github.io/themes/Roon"}}
