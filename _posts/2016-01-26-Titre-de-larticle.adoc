@@ -1,6 +1,7 @@
 = Titre de l'article
 :hp-tags: Exemple, AsciiDocs
 
+[.chapo]
 Chapô d'introduction.
 
 Contenu de l'article, avec des _italiques_ et du *gras*.
