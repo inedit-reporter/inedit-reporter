@@ -13,4 +13,10 @@ Suite de l'article.
 * liste él. 2
 ** sous-élément
 
-![image-alt](https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png)
+image::https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png[Image ALT, 180]
+(image alignable avec un 3 argument: role=right)
+
+
+Encore du texte, avec un https://google.be[lien vers google].
+
+> Citation
