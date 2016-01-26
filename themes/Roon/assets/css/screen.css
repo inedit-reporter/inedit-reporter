@@ -1675,21 +1675,34 @@ body.touch.user article .readmore {
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* Each icon is created by inserting the corret character into the
+/* Each icon is created by inserting the correct character into the
    content of the :before pseudo element. Like a boss. */
 .icon-ghost:before {
-    content: "\e000";
+    content: "\f600";
 }
 .icon-feed:before {
-    content: "\e001";
+    content: "\f601";
 }
 .icon-twitter:before {
-    content: "\e002";
+    content: "\f602";
     font-size: 1.1em;
 }
 .icon-google-plus:before {
-    content: "\e003";
+    content: "\f603";
 }
 .icon-facebook:before {
-    content: "\e004";
+    content: "\f604";
+}
+.icon-arrow-left:before {
+    content: "\f605";
+}
+.icon-stats:before {
+    content: "\f606";
+}
+.icon-location:before {
+    content: "\f607";
+    margin-left: -3px; /* Tracking fix */
+}
+.icon-link:before {
+    content: "\f608";
 }
