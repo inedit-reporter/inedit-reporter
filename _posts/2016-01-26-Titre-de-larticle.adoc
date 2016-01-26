@@ -1,1 +1,16 @@
-= ARTICLE A CHANGER
+= Titre de l'article
+
+Chapô d'introduction.
+
+Contenu de l'article, avec des _italiques_ et du *gras*.
+
+== Intertitre
+
+Suite de l'article.
+
+
+* liste él. 1
+* liste él. 2
+** sous-élément
+
+![image-alt](https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png)
