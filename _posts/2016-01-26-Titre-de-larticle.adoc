@@ -14,18 +14,30 @@ Suite de l'article.
 ** sous-élément
 
 
-image::https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png[Image ALT, 180]
-(image alignable avec un 3 argument: role=right)
+image::https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png[Image ALT, 180, caption="Inédit Reporter :", title=" un seul logo"]
+(image alignable avec un 3 argument: role="right" - sans caption uniquement)
 
 [[ancre]]
 == Intertitre
 
-Encore du texte, avec un https://google.be[lien vers google].
+Encore du texte, avec un link:https://google.be[lien vers google].
 
-
-> Citation de quelqu'un.
+[quote, Auteur, profession]
+Citation de quelqu'un qui dit quelque chose.
 
 Ceci est le 1^er^ article du blog, qui ne sera pas publié. L'eau est H~2~O.
 
+---
 
-"e"
+Définition::
+Une définition sert à définir quelque chose.footnote:[Voir juste en dessous]
+
+Quelque chose::
+Quelque chose se rapport à un objet réel ou imaginaire.
+
+video::nTDfcYw2KCY[youtube]
+
+,===
+*Colonne 1*, *Colonne 2*, *Colonne 3*
+Ligne 1-1, Ligne 1-2, Ligne 1-3
+,===
