@@ -19,6 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 image::https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png[Image ALT, 180, caption="Inédit Reporter :", title=" un seul logo", role="right"]
 
+---
+
 [[ancre]]
 == Intertitre
 
