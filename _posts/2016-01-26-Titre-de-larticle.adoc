@@ -14,8 +14,7 @@ Suite de l'article.
 ** sous-élément
 
 
-image::https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png[Image ALT, 180, caption="Inédit Reporter :", title=" un seul logo"]
-(image alignable avec un 3 argument: role="right" - sans caption uniquement)
+image::https://github.com/inedit-reporter/inedit-reporter.github.io/raw/master/images/Inedit-reporter.png[Image ALT, 180, caption="Inédit Reporter :", title=" un seul logo", role="right"]
 
 [[ancre]]
 == Intertitre
