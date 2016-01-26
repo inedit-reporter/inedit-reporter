@@ -637,7 +637,7 @@ article .text dl dd {
 article .text hr {
     border: none;
     height: 1px;
-    background-color: #ededee
+    background-color: #ededee;
 }
 article .text blockquote {
     margin: 42px 10px;
@@ -656,18 +656,18 @@ article .text table {
 article .text table th {
     color: #909396;
     padding: 12px 20px 9px 20px;
-    border-left: 1px solid #ededee;
+    border-left: 1px solid #ccc;
     border-bottom: 2px solid #d3d3d5;
-    border-top: 1px solid #ededee
+    border-top: 1px solid #ccc
 }
 article .text table td {
     padding: 10px 20px 7px 20px;
     margin: 0 10px;
-    border-bottom: 1px solid #ededee;
-    border-left: 1px solid #ededee
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc
 }
 article .text table td:last-of-type, article .text table th:last-of-type {
-    border-right: 1px solid #ededee
+    border-right: 1px solid #ccc
 }
 article .text table tr:hover td {
     background: #fafafa
@@ -1705,4 +1705,27 @@ body.touch.user article .readmore {
 }
 .icon-link:before {
     content: "\f608";
+}
+
+.share {
+    border-top: 3px solid #d35c5c;
+    font-size: 1.2em;
+    line-height: 2em;
+    text-align: center;
+}
+.share span {
+    font-size: 1.2em;
+}
+.share .hidden {
+    opacity: .75;
+    margin-right: 6px;
+}
+#footnotes {
+    text-align: left;
+}
+.right {
+    float: right;
+}
+.left {
+    float: left;
 }
