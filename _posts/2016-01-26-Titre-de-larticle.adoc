@@ -1,4 +1,5 @@
 = Titre de l'article
+:hp-tags: Exemple, AsciiDocs
 
 Chapô d'introduction.
 
