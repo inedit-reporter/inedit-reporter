@@ -642,7 +642,7 @@ article .text hr {
 article .text blockquote {
     margin: 42px 10px;
     padding-left: 20px;
-    border-left: 4px solid #ededee;
+    border-left: 4px solid #d35c5c;
     font-size: 23px
 }
 article .text table {
@@ -665,6 +665,9 @@ article .text table td {
     margin: 0 10px;
     border-bottom: 1px solid #ccc;
     border-left: 1px solid #ccc
+}
+article .text table tr {
+    border-top: 1px solid #ccc;
 }
 article .text table td:last-of-type, article .text table th:last-of-type {
     border-right: 1px solid #ccc
@@ -1728,4 +1731,12 @@ body.touch.user article .readmore {
 }
 .left {
     float: left;
+}
+
+h1, h2 {
+    color: #d35c5c;
+}
+.chapo {
+    font-size: 1.2em;
+    font-weight: bold;
 }
