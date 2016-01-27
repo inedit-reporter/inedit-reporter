@@ -27,5 +27,13 @@
 </article>
 {{/foreach}}
 
+<div id="no_posts" style="display:none;margin-bottom:70px;font-size:1.4em;">Aucun billet publié</div>
+<script>
+window.onload = function () {
+    if (document.getElementsByTagName('article').length === 0) {
+        document.getElementById('no_posts').style.display = 'block';
+    }
+}</script>
+
 {{! Previous/next page links - displayed on every page }}
 {{pagination}}
