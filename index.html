@@ -31,12 +31,7 @@
 </header>
 
 <div id="no_posts" style="display:none;margin-bottom:70px;font-size:1.4em;">Aucun billet publié</div>
-<script>
-window.onload = function () {
-    if (document.getElementsByTagName('article').length === 0) {
-        document.getElementById('no_posts').style.display = 'block';
-    }
-}</script>
+<script>if (document.getElementsByTagName('article').length === 0) { document.getElementById('no_posts').style.display = 'block'; }</script>
 
 <nav class="pagination" role="navigation">
     <span class="page-number">Page 1 sur 1</span>
