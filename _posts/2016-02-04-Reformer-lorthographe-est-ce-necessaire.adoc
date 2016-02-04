@@ -2,7 +2,7 @@
 :hp-tags: Éducation
 
 [.chapo]
-La réforme de l'orthographe de 1990, la plus récente, a suscité de vives passions. Récemment, les éditeurs français ont décidé d'un commun accord d'adopter ces recommendations dans leurs manuels scolaires. La question se pose toujours : réfomer, est-ce nécessaire ?
+link:http://www.academie-francaise.fr/sites/academie-francaise.fr/files/rectifications_1990.pdf[La réforme de l'orthographe de 1990], la plus récente, a suscité de vives passions. Récemment, les éditeurs français ont décidé d'un commun accord d'adopter ces recommendations dans leurs manuels scolaires. La question se pose toujours : réfomer, est-ce nécessaire ?
 
 La réponse divise les spécialistes, mais deux grandes tendances se dégagent. D'un côté, les plus *réformateurs* désirent une refonte complète de l'orthographe. De l'autre, les grands *traditionnels* souhaitent conserver la langue telle qu'elle est.
 
