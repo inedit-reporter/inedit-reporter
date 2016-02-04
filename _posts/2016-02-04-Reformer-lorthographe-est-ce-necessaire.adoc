@@ -1,0 +1,55 @@
+= Réformer l'orthographe, est-ce nécessaire ?
+:hp-tags: Éducation
+
+[.chapo]
+La réforme de l'orthographe de 1990, la plus récente, a suscité de vives passions. Récemment, les éditeurs français ont décidé d'un commun accord d'adopter ces recommendations dans leurs manuels scolaires. La question se pose toujours : réfomer, est-ce nécessaire ?
+
+La réponse divise les spécialistes, mais deux grandes tendances se dégagent. D'un côté, les plus *réformateurs* désirent une refonte complète de l'orthographe. De l'autre, les grands *traditionnels* souhaitent conserver la langue telle qu'elle est.
+
+Au cours de son histoire, l'orthographe du français a évolué. L'ordonnance de Villers-Cotterêts, en 1539, a rendu l'usage du français obligatoire. En 1835, une réforme majeure a donné au français moderne son visage d'aujourd'hui.
+
+Pour être en mesure d'évaluer la nécessité d'une réforme, il faut d'abord se mettre d'accord sur ce qu'est l'orthographe. D'après le Petit Robert, il s'agit de _la manière d'écrire un mot qui est considérée comme la seule correcte_. Mais les dissidences entre linguistes et écrivains viennent de la conception même de l'orthographe.
+
+== Une langue noble...
+Les puristes considèrent que le français est une langue noble. Sa richesse vient de sa complexité. L'orthographe, au même titre que les mathématiques ou les sciences, est une discipline qui doit être apprise avec rigueur.
+
+Bernard Pivot, par exemple, définit l'orthographe comme *une matière espiègle et joyeuse*, loin de la discipline austère et rébarbative souvent dépeinte.
+
+[quote, Thomas Gergely, Professeur à l'Université Libre de Bruxelles]
+L'orthographe ne s'enseigne plus comme une discipline. À l'école primaire, ce n'était pas toujours très drôle avec nos instituteurs en cache-poussière gris et sévère, mais tous les matins sans exception la journée commençait par un élève envoyé au tableau pour réciter les conjugaisons, les règles d'orthographe. On l'apprenait. Ce qui fait que moi-même et mes camarades, à 12 ans nous ne faisions plus de fautes, ou très peu.
+
+== ... mais trop compliquée
+De l'autre côté, une réforme est envisagée par de nombreux auteurs, grammairiens, historiens de la langue, académiciens et universitaires, à commencer évidemment par les éminents membres de l'Académie française et du Conseil supérieur de la langue française, qui ont proposé la réforme de 1990.
+
+Pour Claude Gruaz, Docteur ès-Lettres, une réforme serait souhaitable. Dans le contexte politico-économique, à l'international, cela *favoriserait les productions et les échanges culturels internationaux*. À l'argument du patrimoine, utilisé par ses détracteurs, il répond que la langue française a toujours évolué. Elle a même complètement changé de visage depuis ses origines.
+
+André Goosse, un des principaux initiateurs de la réforme, explique qu'un rafraîchissement doit absolument être fait de temps à autres, pour rendre l'acquisition du français un peu moins difficile aux générations futures et aux jeunes francophones d'Afrique ou d'ailleurs.
+
+[quote, Guy Hennebelle, Directeur de "Panoramiques"]
+Soyez persuades que trente ans ne se passeront pas sans que l'orthographe francaise ne s'allege de ses scories arcaiques. On ne pourra pas éternellement empecher tout progres dans la simplification.
+
+== Trouver un terrain d'entente
+Pour certains, l'orthographe est une discipline noble à part entière. Pour d'autres, c'est un simple condensé de règles conventionnelles, compliquées, comprenant même des absurdités. Ces deux positions drastiquement opposées sont toutes deux objectivement défendables. C'est bien là la véritable difficulté.
+
+Bernard Pivot disait : « _Si je devais désigner un mot dont l'orthographe me parait être un modèle de rigueur, de bon sens, d'adéquation entre son écriture et la chose désignée, je choisirais sans hésiter libellule, joli et fragile insecte au vol saccadé, doté de quatre ailes et qui s'écrit avec... quatre l._ »
+
+Si l'on ne peut imputer aux premiers leurs amours pour la graphie, on ne peut pas non plus objectivement nier qu'il y ait bel et bien des irrégularités dans l'orthographe. Notamment concernant l'accent circonflexe, qui dans certains cas, comme _suprême_, n'a aucune raison valable d'y figurer.
+
+Que faudrait-il, alors, pour créer une réforme de l'orthographe ? La solution pourrait être de *rechercher une solution utilitariste*, qui ferait le plus grand bonheur du plus grand nombre. Il faudrait alors commencer par écarter les deux extrêmes respectifs :
+
+* Aucune modification, parce que l'orthographe française possède le même visage depuis deux siècles, preuve de son bien-fondé intégral. 
+** Claude Gruaz disait « _la lecture du Grevisse montre par exemple l'extrême complexité des règles d'accord du participe passé qui couvrent plus de vingt-trois pages en caractères fins, quatorze paragraphes qui comprennent maintes sous-règles, exceptions et remarques._ »
+** De plus, l'orthographe comporte des illogismes, comme les mots comportant un tronc commun ou partageant leur étymologie mais orthographiés différemment (e.g., _honorer_ et _honneur_, _chariot_ et _charrette_).
+
+* Adopter une orthographe purement phonétique, comme nos voisins d'Italie ou d'Espagne. 
+** Gabriel García Márquez, écrivain espagnol et prix Nobel de littérature, déclarait malgré une orthographe espagnole totalement phonétique : « _Mon orthographe, je la fais corriger par des correcteurs. Si on me faisait passer un examen de grammaire, je me ferais étendre..._ » .
+** L'orthographe permet le passage direct du signe au sens , d'où un gain de temps et d'efficacité accrue : différencier des homophones polysémiques, comme _ver – vert – vair – vers_, sans orthographe relève de l'impossible.
+
+== La réforme de 1990, une bonne mauvaise idée ?
+Pour Thomas Gergely, la question de la nécessité d'une réforme trouve sa réponse d'elle-même : une réforme _partielle_ de l'orthographe _pourrait_ être nécessaire.
+
+Mais *la réforme de 1990 peine à être appliquée*, et les raisons en sont simples : sur vingt règles sensées faciliter l'orthographe, dix comportent des exceptions.
+
+Elle propose pourtant bon nombre de rectifications sensées : la régularisation du trait d'union à tous les termes servant à écrire les nombres, le tréma sur le _u_ lorsqu'il se prononce, les accents graves et aigus sur certains _e_, mais n'a pas toujours considéré la tradition, l'histoire et l'esthétique, suscitant dès lors de nombreuses réactions : _douceâtre, eczéma, aimé-je, oignon, brûler,_ ... ne sont-ils pas entré dans l'usage ?
+
+Il n'y a pas de solution miracle. L'orthographe continuera de déchaîner les passions et de faire couler de l'encre. Tout ce qu'on peut souhaiter pour l'avenir, c'est que le dialogue entre spécialistes et la circonspection soient de mise.
